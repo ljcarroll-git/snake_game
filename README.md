@@ -1,2 +1,2 @@
 # Snake Game Clone
-snake game clone in python using the Turtle module
+This is a snake game clone in Python using the turtle module
